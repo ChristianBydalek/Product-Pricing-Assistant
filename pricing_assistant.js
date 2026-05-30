@@ -15,5 +15,5 @@ console.log("Product:", productName);
 console.log("Discounted Price (before tax): $" + discountedPrice.toFixed(2));
 console.log("Final Price (with tax): $" + finalPriceWithTax.toFixed(2));
 console.log("Profit per Unit: $" + profitPerUnit.toFixed(2));
-console.log("Break-even Units:". breakEvenUnits);
+console.log("Break-even Units:", breakEvenUnits);
 console.log("Profitable per Unit:", isProfitablePerUnit);
